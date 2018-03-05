@@ -9,7 +9,7 @@ Patreon: https://www.patreon.com/michsky
 
 I also appreciate any feedback. Let me know if you have any feedback.
 
-3rd party assets that I used (free, show some love to them):
+3rd party assets that I used (show some love to them):
 https://assetstore.unity.com/packages/vfx/shaders/dissolve-edge-92681
 
 
