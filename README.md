@@ -3,12 +3,10 @@ Stylish UI package for Unity engine.
 
 Latest version: 1.2b
 
-All changes: https://www.youtube.com/watch?v=nxLc-BaqZag&t=86s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nxLc-BaqZag?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Contact me via e-mail: isa.steam@outlook.com
 
-YouTube: https://www.youtube.com/c/Michsky
-
-Patreon: https://www.patreon.com/michsky
-
 I also appreciate any feedback. Let me know if you have any.
+
+
