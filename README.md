@@ -3,7 +3,7 @@ Stylish UI package for Unity engine.
 
 Latest version: 1.2b
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nxLc-BaqZag?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://www.youtube.com/embed/nxLc-BaqZag?rel=0
 
 Contact me via e-mail: isa.steam@outlook.com
 
